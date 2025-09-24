@@ -1,1 +1,10 @@
 /.idea/
+/pom.xml
+/.gradle/
+/build/
+/allure-results/
+/pgdata/
+/gradlew.bat
+/pg_hba.conf
+
+/gradle/
